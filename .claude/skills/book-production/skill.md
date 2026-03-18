@@ -1,6 +1,6 @@
 ---
 name: book-production
-description: "AI 트렌드 온보딩 완벽 가이드 책 제작 오케스트레이터. AI-Education-Complete.md를 기반으로 6개 챕터 병렬 집필, 삽화 생성, 통합 편집, PDF 생성까지 전 과정을 조율. '책 제작', '북 프로덕션' 요청 시 사용."
+description: "AI 트렌드 책 제작 오케스트레이터. AI-Education-Complete.md를 기반으로 6개 챕터 병렬 집필, 삽화 생성, 통합 편집, PDF 생성까지 전 과정을 조율. '책 제작', '북 프로덕션' 요청 시 사용."
 ---
 
 # Book Production Orchestrator

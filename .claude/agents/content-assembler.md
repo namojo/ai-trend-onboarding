@@ -23,10 +23,9 @@ description: "교육 콘텐츠 통합 편집 전문가 (오케스트레이터). 
 
 ### Step 1: 산출물 수집 및 검토
 각 에이전트의 output 파일 확인:
-- `output/01-timeline.md` (ai-historian)
-- `output/02-model-evolution.md` (model-analyst)
-- `output/03-trends-and-services.md` (trend-researcher)
-- `output/04-vibe-coding-and-harness.md` (devpractice-expert)
+- `output/01-ai-trend-report.md` (ai-trend-analyst)
+- `output/02-trends-and-services.md` (trend-researcher)
+- `output/03-일하는 방식의 변화-AI.md`, `04-생성형AI의 개념과 작동원리.md`, `05-AI시대-우리가 준비해야 하는 것.md` (ai-transformation-expert)
 - `output/appendix-glossary.md` (glossary-builder 스킬로 생성)
 
 ### Step 2: 구조 통합
